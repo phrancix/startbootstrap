@@ -1,0 +1,50 @@
+header.masthead{
+	background-image: url("../img/accept-concert.jpg");
+}
+
+h1 {
+	font-family: 'New Rocker', cursive;
+	font-size: 180px;
+	text-shadow: 0px 0px 6px black;
+	color: grey;
+}
+h2 {
+	font-family: 'New Rocker', cursive;
+	font-size: 60px;
+	text-shadow: 2px 2px 8px black;
+}
+.mybutton{
+	
+	width: 350px;
+	height: 100px;
+	background-color: grey;
+	color: grey;
+	text-align: center;
+	font-size: 2em;
+	text-shadow: 0px 0px 4px white;
+	
+}
+
+iframe {
+
+margin: 0 auto;
+height: 250px;
+box-shadow: 0px 0px 20px yellow;
+
+}
+
+footer a .fab{
+	
+	color: red;
+	background-color: white;
+	font-size: 2.5em;
+	padding: .2em;
+	border-radius: 25%;
+}
+
+hr {
+  box-sizing: content-box;
+  height: 4px;
+  overflow: visible;
+  noshade;
+}
